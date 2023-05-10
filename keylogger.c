@@ -5,7 +5,7 @@
 #include <signal.h>
 
 const char *keycode_to_char[256] = {
-  "",
+  	"",
 	"ESC",
 	"1",
 	"2",
